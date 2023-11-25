@@ -48,9 +48,16 @@ flex: 1;
 font-size: 45px;
 box-shadow: none;
 }
-form input.equal{
+/* Assuming .operator is a class for the equals button */
+.operator {
     width: 145px;
 }
+
+/* Assuming you want to target the input with class "equal" within the form */
+form input.equal {
+    width: 145px;
+}
+
 
 form input.operator{
 
