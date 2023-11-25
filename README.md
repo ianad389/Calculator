@@ -44,3 +44,8 @@ Scientific calculator functions (e.g., square root, exponentiation).
 History of calculations.
 Feel free to contribute to the project by submitting pull requests or opening issues.
 
+Credits
+https://www.youtube.com/watch?v=cGgLHJGyS34
+
+Youtube channel
+https://www.youtube.com/@GreatStackDev
